@@ -1,7 +1,7 @@
 # EJ-Relaciones
 aca se encuentran los ejercicios realizados en el curso sobre Relaciones ( LEER RAMA MASTER)
 
-RELACION 01
+RELACION 01 :
            Realizar un programa para que una Persona pueda adoptar un Perro. Vamos a contar de
 dos clases. Perro, que tendrá como atributos: nombre, raza, edad y tamaño; y la clase
 Persona con atributos: nombre, apellido, edad, documento y Perro.
@@ -10,7 +10,7 @@ que pensar la lógica necesaria para asignarle a cada Persona un Perro y por ult
 mostrar desde la clase Persona, la información del Perro y de la Persona.
 
 
-RELACION 02
+RELACION 02 :
             Realizar el juego de la ruleta rusa de agua en Java. Como muchos saben, el juego se
 trata de un número de jugadores, que, con un revolver de agua, el cual posee una sola
 carga de agua, se dispara y se moja. Las clases a hacer del juego son las siguientes:
@@ -21,7 +21,7 @@ aleatoriamente.
 
 
 
-ExtraRelacion
+ExtraRelacion :
              Ahora se debe realizar unas mejoras al ejercicio de Perro y Persona. Nuestro programa
 va a tener que contar con muchas personas y muchos perros. El programa deberá
 preguntarle a cada persona, que perro según su nombre, quiere adoptar. Dos personas
